@@ -32,7 +32,7 @@ $ http://localhost:8080
 ### 1. To know information only about Noodle Houses around the location you choose
 ![alt_text](./readme-images/top.png "top image")
 
-### 2. To filter lists by name
+### 2. To filter list by name
 ![alt_text](./readme-images/filter.png "filter image")
 
 ### 3. To change location with autocomplete support
