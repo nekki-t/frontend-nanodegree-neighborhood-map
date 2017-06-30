@@ -1,5 +1,6 @@
 ## Neighborhood map project
 ### Getting started
+
 ##### 1. Open your terminal and clone this repository to a directory you like:
 ```
 $ git clone https://github.com/nekki-t/frontend-nanodegree-neighborhood-map.git
@@ -25,3 +26,16 @@ $ http-server
 ```
 $ http://localhost:8080
 ```
+
+## What you can
+### 1. To know information only about Noodel Houses around the location you choose
+![alt_text](./readme-images/top.png "top image")
+
+### 2. To filter lists by name
+![alt_text](./readme-images/filter.png "filter image")
+
+### 3. To change location with autocomplete
+![alt_text](./readme-images/change-near.png "change-near image")
+
+### 4. To see noodle houses in different areas
+![alt_text](./readme-images/new-location.png "new-location image")
