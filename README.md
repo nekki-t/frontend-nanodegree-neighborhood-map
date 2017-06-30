@@ -16,8 +16,9 @@ $ npm install http-server -g
 ```
 ref. https://github.com/indexzero/http-server
 ##### 4. Change your directory to src:
+```
 $cd /{directory}/src
-
+```
 ##### 5. Run server:
 ```
 $ http-server
@@ -28,14 +29,14 @@ $ http://localhost:8080
 ```
 
 ## What you can
-### 1. To know information only about Noodel Houses around the location you choose
+### 1. To know information only about Noodle Houses around the location you choose
 ![alt_text](./readme-images/top.png "top image")
 
 ### 2. To filter lists by name
 ![alt_text](./readme-images/filter.png "filter image")
 
-### 3. To change location with autocomplete
+### 3. To change location with autocomplete support
 ![alt_text](./readme-images/change-near.png "change-near image")
 
-### 4. To see noodle houses in different areas
+### 4. To see noodle houses in different locations
 ![alt_text](./readme-images/new-location.png "new-location image")
