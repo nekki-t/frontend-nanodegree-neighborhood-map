@@ -96,7 +96,6 @@
     }
 
     function noodleHouseLoadError(errorTitle, errorMessage) {
-      console.log(errorThrown);
       self.loading(false);
       showErrorDialog(errorTitle, errorMessage);
     }
